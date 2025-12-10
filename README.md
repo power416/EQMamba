@@ -10,7 +10,7 @@
     Jilin University, College of Instrumentation and Electrical Engineering, Changchun, China.
 </div>
 
-## The workflow of EQMamba
+## The Workflow of EQMamba
 
 <p align="center">
   <img src="assets/EQMamba.png">
