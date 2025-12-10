@@ -10,10 +10,10 @@
     Jilin University, College of Instrumentation and Electrical Engineering, Changchun, China.
 </div>
 
-## EQMamba Architecture
+## The workflow of EQMamba
 
 <p align="center">
-  <img src="assets/MSEP-TFormer.png">
+  <img src="assets/EQMamba.png">
 </p>
 
 * Run `python test.py`.
