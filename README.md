@@ -16,6 +16,12 @@
   <img src="assets/EQMamba.png">
 </p>
 
+## EQMamba Architecture
+
+<p align="center">
+  <img src="assets/architecture.png">
+</p>
+
 * Run `python test.py`.
 
 ### ✨ We will subsequently release additional code.
