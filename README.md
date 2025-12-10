@@ -19,7 +19,7 @@
 ## EQMamba Architecture
 
 <p align="center">
-  <img src="assets/architecture.png">
+  <img src="assets/Architecture.png">
 </p>
 
 * Run `python test.py`.
