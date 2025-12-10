@@ -10,7 +10,7 @@
     Jilin University, College of Instrumentation and Electrical Engineering, Changchun, China.
 </div>
 
-## MSEP-TFormer Architecture
+## EQMamba Architecture
 
 <p align="center">
   <img src="assets/MSEP-TFormer.png">
