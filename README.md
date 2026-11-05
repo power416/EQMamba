@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <sup>1</sup>
+    <sup>2</sup>
     Department of Earth and Planetary Sciences, Harvard University, Cambridge 02138, USA
 </div>
 
